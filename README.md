@@ -15,18 +15,11 @@
   <a href="mailto:moustafa036912@gmail.com"> <!-- Gmail -->
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/moustafa-flutter-developer-7a8573322/"> <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/moustafa-ahmed-7a8573322/"> <!-- LinkedIn -->
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
   </a>&nbsp;
-  <a href="https://t.me/FlutterDeveloper_Community"> <!-- Telegram Channel -->
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="45"/>
-  </a>&nbsp;
-  <a href="https://codeforces.com/profile/Moustafa8"> <!-- Codeforces -->
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="45"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/Moustafa8/"> <!-- LeetCode -->
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="40"/>
-  </a>
+
+  
 </p>
 ### 🛠️ Languages & Tools:
 
